@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSON2Kotlin</string>
+    <string name="textViewFruitName">TextView</string>
+    <string name="textViewFruitUses">TextView</string>
+</resources>
